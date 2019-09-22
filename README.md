@@ -2,7 +2,7 @@
 
 A docker image equipped with software needed to build QuickType output.
 
-[DockerHub Image](https://hub.docker.com/r/germanp173/protoc-plus)
+[DockerHub Image](https://hub.docker.com/r/germanp173/quicktype-plus)
 
 ## Add-ons
 
