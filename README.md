@@ -1,2 +1,11 @@
-# docker-quicktype-plus
-A docker image equipped with software needed to build quicktype output
+# Docker QuickType Plus
+
+A docker image equipped with software needed to build QuickType output.
+
+[DockerHub Image](https://hub.docker.com/r/germanp173/protoc-plus)
+
+## Add-ons
+
+- Node JS
+- Maven
+- Open JDK 8
