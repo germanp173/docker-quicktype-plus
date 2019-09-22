@@ -1,0 +1,19 @@
+{
+  "name": "docker-quicktype-plus",
+  "version": "1.0.0",
+  "description": "Docker quicktype builder",
+  "scripts": {
+    "version": "git add --all",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germanp173/docker-quicktype-plus.git"
+  },
+  "author": "German Pineda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/germanp173/docker-quicktype-plus/issues"
+  },
+  "homepage": "https://github.com/germanp173/docker-quicktype-plus#readme"
+}
